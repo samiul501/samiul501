@@ -1,19 +1,60 @@
-<h1 align="center">Hi 👋, I'm Samiul Islam</h1>
-<h3 align="center">A passionate Software Quality Assurance</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samiul501&label=Profile%20views&color=0e75b6&style=flat" alt="samiul501" /> </p>
+# Hi, I'm Samiul Islam 👋
 
-- 📫 How to reach me **samiul20207@gmail.com**
+### Software QA Engineer · API, Performance & AI-assisted Test Automation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samiul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiul islam" height="30" width="40" /></a>
-<a href="https://fb.com/samiul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samiul islam" height="30" width="40" /></a>
-</p>
+I find the bugs that a `200 OK` hides — and I'm building tools that find them automatically.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samiul_Islam-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiul-islam-2b9020342)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samiul501.github.io-181717?logo=github&logoColor=white)](https://samiul501.github.io/samiul-islam/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiul501&show_icons=true&locale=en&layout=compact" alt="samiul501" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiul501&" alt="samiul501" /></p>
+---
+
+## 🧑‍💻 About me
+
+- 🧪 Junior **Software QA Engineer** at **AKIJ iBOS Limited** (Dhaka) — manual, API and performance testing on ERP, POS and job-portal products.
+- 🎓 BSc in Computer Science & Engineering, **Green University of Bangladesh** (2026).
+- 🤖 Currently going deeper into **test automation** and **AI-assisted QA** — Playwright, agent-driven frameworks, and autonomous API testing.
+- 📚 Background in machine-learning research (word embeddings: CBOW & Skip-Gram).
+
+## 🛠️ Toolbox
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-CLI-FF6C37)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?logo=apachejmeter&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+**Testing:** functional · regression · integration · UAT · API · performance (load/stress) · security basics · test planning & documentation · SDLC / STLC · Agile Scrum
+
+## 🚀 Featured projects
+
+| Project | What it is |
+|---|---|
+| [**AutonomaPI**](https://github.com/samiul501/AutonomaPI) | An autonomous API-testing agent: reads an OpenAPI spec, chains dependent endpoints, fuzzes them, and flags auth-bypass, BOLA and data-leak bugs on a live dashboard. *(FastAPI · Next.js)* |
+| [**AI-QA Automation Framework**](https://github.com/samiul501/AI-QA-Automation-Framework) | Safety-first web test automation with Playwright, Page Object Model and a multi-agent QA pipeline driven through Claude Code. |
+| [**AI Android Automation Studio**](https://github.com/samiul501/AI-Android-Automation-Studio) | Record taps on a real Android phone → generate a test script → run it → get an AI-explained report. *(TypeScript · React)* |
+| [**Performance Testing with k6**](https://github.com/samiul501/performance-testing-with-k6) | Load, stress and user-journey tests with HTML reports. |
+| [**Ecom API Testing (Postman)**](https://github.com/samiul501/Ecom-API-Testing-Postman) | Collections, environments and test scripts for a REST e-commerce API. |
+| [**NextJobz Manual Testing**](https://github.com/samiul501/Nextjobz-manual-testing-Jobseeker) | Test plan, strategy and test cases for a job-seeker portal. |
+| [**EchoGPT QA Project**](https://github.com/samiul501/Echogpt-AI-Testing) | 39 test cases across functional, security, usability, accessibility and performance, with full QA documentation. |
+
+## 📫 Let's connect
+
+I'm open to QA / test automation opportunities and always happy to talk testing.
+Reach me on [LinkedIn](https://www.linkedin.com/in/samiul-islam-2b9020342).
+
+<div align="center">
+
+*Test early. Test hard. Trust, but verify.*
+
+</div>
